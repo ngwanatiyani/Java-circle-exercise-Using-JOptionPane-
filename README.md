@@ -1,4 +1,4 @@
-# Circle calcution
+# Circle calculation
 
 ![Java](https://skillicons.dev/icons?i=java)
 
